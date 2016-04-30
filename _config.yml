@@ -1,0 +1,28 @@
+name: JARuppertJeffersonLibrary
+favicon: null
+layout_spectrum: 0.9608518916647881
+typography_spectrum: 0.23175431205891073
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7256541403476149
+  lightness: 0.4786686210427433
+  saturation: 0.5875112318899482
+  rhythmicContrast: 0.9217566279694438
+purpose: []
